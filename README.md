@@ -14,9 +14,23 @@
 
 </div>
 
-# IND Atlas by WDP
+---
+<img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/221dbcef-e53d-46eb-adcd-054630eafed1" />
 
-**IND Atlas** is an advanced Open Source Intelligence (OSINT) and situational awareness dashboard engineered specifically for real-time monitoring of Indian topography, media streams, and infrastructure. Developed by **Praveen K Singh (webdevpraveen)**, this platform aggregates massive amounts of high-latency visual data, textual intelligence, and atmospheric conditions into a single, cohesive, non-scrolling tactical command center (HUD).
+<img width="1536" height="740" alt="image" src="https://github.com/user-attachments/assets/dc505508-401d-49cc-871a-6350cf2b8062" />
+
+
+
+
+
+
+
+
+---
+
+# 🗺️ IND Atlas by WDP 
+
+**IND Atlas** is an advanced Open Source Intelligence (OSINT) and situational awareness dashboard engineered specifically for real-time monitoring of Indian topography, media streams, and infrastructure. Designed to mimic a high-stakes tactical command center (HUD), the platform aggregates massive amounts of high-latency visual data, textual intelligence, and atmospheric conditions into a single, cohesive, non-scrolling interface.
 
 ---
 
