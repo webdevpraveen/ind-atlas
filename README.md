@@ -14,9 +14,9 @@
 
 </div>
 
-# IND Atlas Command Center
+# IND Atlas by WEBDEVPRAVEEN
 
-**IND Atlas** is an advanced Open Source Intelligence (OSINT) and situational awareness dashboard engineered specifically for real-time monitoring of Indian topography, media streams, and infrastructure. Designed to mimic a high-stakes tactical command center (HUD), the platform aggregates massive amounts of high-latency visual data, textual intelligence, and atmospheric conditions into a single, cohesive, non-scrolling interface.
+**IND Atlas** is an advanced Open Source Intelligence (OSINT) and situational awareness dashboard engineered specifically for real-time monitoring of Indian topography, media streams, and infrastructure. Developed by **Praveen K Singh (webdevpraveen)**, this platform aggregates massive amounts of high-latency visual data, textual intelligence, and atmospheric conditions into a single, cohesive, non-scrolling tactical command center (HUD).
 
 ---
 
@@ -128,4 +128,4 @@ The dashboard is strictly bounded to `100vh` and `100vw`. **There are no scrollb
 
 This project is open-source and distributed under the MIT License. See the `LICENSE` file for more information.
 
-*Built for situational awareness, data aggregation, and rapid intelligence parsing.*
+*Built for situational awareness, data aggregation, and rapid intelligence parsing by [Praveenksingh (WEBDEVPRAVEEN)](https://github.com/webdevpraveen).*
