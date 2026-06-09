@@ -1,0 +1,20 @@
+export const UP_DISTRICTS = [
+  { name: "Lucknow", lat: 26.8467, lng: 80.9462, division: "Lucknow", hasCamera: true },
+  { name: "Varanasi", lat: 25.3176, lng: 82.9739, division: "Varanasi", hasCamera: true },
+  { name: "Agra", lat: 27.1767, lng: 78.0081, division: "Agra", hasCamera: true },
+  { name: "Prayagraj", lat: 25.4358, lng: 81.8463, division: "Prayagraj", hasCamera: true },
+  { name: "Kanpur", lat: 26.4499, lng: 80.3319, division: "Kanpur", hasCamera: false },
+  { name: "Gorakhpur", lat: 26.7606, lng: 83.3732, division: "Gorakhpur", hasCamera: false },
+  { name: "Meerut", lat: 28.9845, lng: 77.7064, division: "Meerut", hasCamera: false },
+  { name: "Ghaziabad", lat: 28.6692, lng: 77.4538, division: "Meerut", hasCamera: false },
+  { name: "Noida", lat: 28.5355, lng: 77.3910, division: "Meerut", hasCamera: false },
+  { name: "Mathura", lat: 27.4924, lng: 77.6737, division: "Agra", hasCamera: true },
+  { name: "Vrindavan", lat: 27.5704, lng: 77.6967, division: "Agra", hasCamera: true },
+  { name: "Ayodhya", lat: 26.7922, lng: 82.1998, division: "Faizabad", hasCamera: false },
+  { name: "Bareilly", lat: 28.3670, lng: 79.4304, division: "Bareilly", hasCamera: false },
+  { name: "Aligarh", lat: 27.8974, lng: 78.0880, division: "Aligarh", hasCamera: false },
+  { name: "Moradabad", lat: 28.8386, lng: 78.7733, division: "Moradabad", hasCamera: false },
+  { name: "Saharanpur", lat: 29.9680, lng: 77.5552, division: "Saharanpur", hasCamera: false },
+  { name: "Firozabad", lat: 27.1592, lng: 78.3957, division: "Agra", hasCamera: false },
+  { name: "Jhansi", lat: 25.4484, lng: 78.5685, division: "Jhansi", hasCamera: false }
+];
