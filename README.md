@@ -14,7 +14,7 @@
 
 </div>
 
-# IND Atlas by WEBDEVPRAVEEN
+# IND Atlas by WDP
 
 **IND Atlas** is an advanced Open Source Intelligence (OSINT) and situational awareness dashboard engineered specifically for real-time monitoring of Indian topography, media streams, and infrastructure. Developed by **Praveen K Singh (webdevpraveen)**, this platform aggregates massive amounts of high-latency visual data, textual intelligence, and atmospheric conditions into a single, cohesive, non-scrolling tactical command center (HUD).
 
