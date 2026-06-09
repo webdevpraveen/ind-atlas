@@ -142,4 +142,3 @@ The dashboard is strictly bounded to `100vh` and `100vw`. **There are no scrollb
 
 This project is open-source and distributed under the MIT License. See the `LICENSE` file for more information.
 
-*Built for situational awareness, data aggregation, and rapid intelligence parsing by [Praveenksingh (WEBDEVPRAVEEN)](https://github.com/webdevpraveen).*
