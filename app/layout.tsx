@@ -21,8 +21,36 @@ const shareTechMono = Share_Tech_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IND Atlas by WDP",
-  description: "Geopolitical intelligence dashboard for India",
+  title: "IND Atlas | Tactical OSINT Command Center by WEBDEVPRAVEEN",
+  description: "Advanced Open Source Intelligence (OSINT) and situational awareness dashboard for India. Features real-time visual telemetry, AI analysis, weather tracking, and tactical live streams. Developed by Praveenksingh.",
+  keywords: [
+    "WEBDEVPRAVEEN",
+    "Praveenksingh",
+    "webdevpraveen",
+    "IND Atlas",
+    "India OSINT",
+    "Situational Awareness",
+    "Tactical Dashboard",
+    "Live Cameras India",
+    "News Aggregator"
+  ],
+  authors: [{ name: "Praveen K Singh (WEBDEVPRAVEEN)", url: "https://github.com/webdevpraveen" }],
+  creator: "webdevpraveen",
+  publisher: "WEBDEVPRAVEEN",
+  openGraph: {
+    type: "website",
+    locale: "en_IN",
+    url: "https://ind-atlas.vercel.app/",
+    title: "IND Atlas | Tactical OSINT Command Center",
+    description: "Advanced Open Source Intelligence (OSINT) dashboard for India by webdevpraveen.",
+    siteName: "IND Atlas"
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "IND Atlas | Command Center",
+    description: "Real-time situational awareness dashboard by WEBDEVPRAVEEN.",
+    creator: "@webdevpraveen"
+  }
 };
 
 export default function RootLayout({
